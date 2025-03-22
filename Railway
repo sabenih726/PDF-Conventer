@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Deploy Flask ke Railway"
+git branch -M main
+git remote add origin https://github.com/sabenih726/PDF-Conventer.git
+git push -u origin main
